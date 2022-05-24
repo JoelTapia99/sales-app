@@ -1,0 +1,6 @@
+sales.app
+sales.app.exceptions
+sales.app.inventory
+sales.app.menu
+sales.app.products
+sales.app.utilities
